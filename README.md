@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Bruna 👋
 
-<!--
-**bruna-seabra/bruna-seabra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student in Networks and Information Systems (CTeSP – EQF Level 5)  
+🌐 Cisco Networking Academy certified (Introduction to Networks)  
+🐧 Linux | Networking | XML | Python | Java | C++  
+💻 Looking for a curricular internship (preferably remote)
 
-Here are some ideas to get you started:
+### Projects
+- Networking fundamentals and notes (Cisco)
+- Programming exercises in Python, Java and C++
+- XML structure examples
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Vila Nova de Gaia, Porto, Portugal
